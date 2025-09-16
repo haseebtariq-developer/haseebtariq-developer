@@ -1,14 +1,15 @@
 # Hi there, I'm Haseeb Tariq 👋  
 
-I'm an **experienced Full Stack Web Developer** passionate about building scalable, secure, and user-friendly applications. I work with **MERN & MEAN stacks, React, Next.js, PHP, .NET, and WordPress**, creating end-to-end solutions from responsive frontends to powerful backends.  
+I'm an **experienced Full Stack Web Developer** passionate about building scalable, secure, and user-friendly applications. I work with **MERN & MEAN stacks, React, Next.js, PHP, .NET, Python, MySQL, MongoDB and WordPress**, creating end-to-end solutions from responsive frontends to powerful backends.  
 
 Currently, I’m enhancing my expertise in **cloud deployment, performance optimization, and modern UI/UX** to deliver high-quality digital products.  
 
 ---
 
 ### 🔭 I’m currently working on  
-- Full-featured **E-commerce platforms** with Angular, Node.js, Express, MongoDB  
-- Custom **WordPress themes & plugins** for businesses  
+- Full-featured **E-commerce platforms** with Angular, Node.js, Express, MongoDB
+- Custom **Web Editor** with Next.js, Node.js, MySQL, React, Express
+- Backend Using **.NET Core**
 - **React & Next.js dashboards** with advanced charting and analytics  
 - Improving skills in **DevOps & cloud (AWS/Docker)** for scalable app hosting  
 
@@ -20,7 +21,7 @@ Currently, I’m enhancing my expertise in **cloud deployment, performance optim
 ### 🧠 Always Learning  
 ⚙️ **Next.js** for modern SSR & SSG apps  
 📦 **Cloud deployment** with AWS, Vercel & Docker  
-📊 **Advanced database design** with MongoDB & SQL  
+📊 **Advanced database design** with MongoDB & MySQL  
 🚀 **Performance optimization** for large-scale web apps  
 
 ### 💬 Ask me about  
