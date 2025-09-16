@@ -57,7 +57,7 @@ Currently, I’m enhancing my expertise in **cloud deployment, performance optim
   <img src="https://img.icons8.com/color/48/000000/javascript.png" width="40"/>
   <img src="https://img.icons8.com/color/48/000000/typescript.png" width="40"/>
   <img src="https://img.icons8.com/color/48/000000/python.png" width="40"/>
-  <img src="https://img.icons8.com/color/48/000000/dot-net.png" width="40"/>
+  <img width="40"  src="https://img.icons8.com/color/48/net-framework.png" alt="net-framework"/>
 </p>  
 
 ---
