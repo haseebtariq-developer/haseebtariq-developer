@@ -20,7 +20,7 @@ Currently, I’m enhancing my expertise in **cloud deployment, performance optim
 
 ### 🧠 Always Learning  
 ⚙️ **Next.js** for modern SSR & SSG apps  
-📦 **Cloud deployment** with AWS, Vercel & Docker  
+📦 **Cloud deployment** with  Vercel & Docker  
 📊 **Advanced database design** with MongoDB & MySQL  
 🚀 **Performance optimization** for large-scale web apps  
 
