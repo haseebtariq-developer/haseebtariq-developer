@@ -11,7 +11,7 @@ Currently, I’m enhancing my expertise in **cloud deployment, performance optim
 - Custom **Web Editor** with Next.js, Node.js, MySQL, React, Express
 - Backend Using **.NET Core**
 - **React & Next.js dashboards** with advanced charting and analytics  
-- Improving skills in **DevOps & cloud (AWS/Docker)** for scalable app hosting  
+- Improving skills in **DevOps & cloud (Docker)** for scalable app hosting  
 
 ### 👯 I’m looking to collaborate on  
 - Open-source MERN/MEAN projects  
@@ -38,21 +38,26 @@ Currently, I’m enhancing my expertise in **cloud deployment, performance optim
 <h3 align="left">🛠️ Languages & Tools I Work With:</h3>  
 
 <p align="left">  
-  <img src="https://img.icons8.com/color/48/000000/angularjs.png" width="40"/>  
-  <img src="https://img.icons8.com/color/48/000000/react-native.png" width="40"/>  
-  <img src="https://img.icons8.com/color/48/000000/nodejs.png" width="40"/>  
-  <img src="https://img.icons8.com/color/48/000000/express.png" width="40"/>  
-  <img src="https://img.icons8.com/color/48/000000/mongodb.png" width="40"/>  
-  <img src="https://img.icons8.com/color/48/000000/javascript.png" width="40"/>  
-  <img src="https://img.icons8.com/color/48/000000/typescript.png" width="40"/>  
-  <img src="https://img.icons8.com/color/48/000000/php.png" width="40"/>  
-  <img src="https://img.icons8.com/color/48/000000/mysql-logo.png" width="40"/>  
-  <img src="https://img.icons8.com/color/48/000000/wordpress.png" width="40"/>  
-  <img src="https://img.icons8.com/color/48/000000/bootstrap.png" width="40"/>  
-  <img src="https://img.icons8.com/color/48/000000/git.png" width="40"/>  
-  <img src="https://img.icons8.com/color/48/000000/github.png" width="40"/>  
-  <img src="https://img.icons8.com/color/48/000000/docker.png" width="40"/>  
-  <img src="https://img.icons8.com/color/48/000000/amazon-web-services.png" width="40"/>  
+  <img src="https://img.icons8.com/color/48/000000/angularjs.png" width="40"/>
+  <img src="https://img.icons8.com/color/48/000000/react-native.png" width="40"/>
+  <img src="https://img.icons8.com/color/48/000000/nodejs.png" width="40"/>
+  <img src="https://img.icons8.com/color/48/000000/express.png" width="40"/>
+  <img src="https://img.icons8.com/color/48/000000/mongodb.png" width="40"/>
+  <img src="https://img.icons8.com/color/48/000000/nextjs.png" width="40"/>
+  <img src="https://img.icons8.com/color/48/000000/php.png" width="40"/>
+  <img src="https://img.icons8.com/color/48/000000/vercel.png" width="40"/>
+  <img src="https://img.icons8.com/color/48/000000/mysql-logo.png" width="40"/>
+  <img src="https://img.icons8.com/color/48/000000/git.png" width="40"/>
+  <img src="https://img.icons8.com/color/48/000000/github.png" width="40"/>
+  <img src="https://img.icons8.com/color/48/000000/docker.png" width="40"/>
+  <img src="https://img.icons8.com/color/48/000000/swagger.png" width="40"/>
+  <img src="https://img.icons8.com/color/48/000000/wordpress.png" width="40"/>
+  <img src="https://img.icons8.com/color/48/000000/html-5--v1.png" width="40"/>
+  <img src="https://img.icons8.com/color/48/000000/css3.png" width="40"/>
+  <img src="https://img.icons8.com/color/48/000000/javascript.png" width="40"/>
+  <img src="https://img.icons8.com/color/48/000000/typescript.png" width="40"/>
+  <img src="https://img.icons8.com/color/48/000000/python.png" width="40"/>
+  <img src="https://img.icons8.com/color/48/000000/dot-net.png" width="40"/>
 </p>  
 
 ---
