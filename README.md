@@ -67,7 +67,7 @@ Currently, I’m enhancing my expertise in **cloud deployment, performance optim
   <a href="https://www.linkedin.com/in/haseebtariqdeveloper" target="_blank"> <img src="https://img.icons8.com/color/48/000000/linkedin.png" width="40"/> </a>  
   <a href="mailto:haseebtariqdeveloper@gmail.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/gmail-new.png" width="40"/> </a>  
   <a href="https://wa.me/+923166990762" target="_blank"> <img src="https://img.icons8.com/color/48/000000/whatsapp.png" width="40"/> </a>  
-  <a href="https://www.upwork.com/freelancers/~01a9cade457fa9d154" target="_blank"> <img src="https://img.icons8.com/color/48/000000/upwork.png" width="40"/> </a>  
+  <a href="https://www.upwork.com/freelancers/~01a9cade457fa9d154" target="_blank"> <img width="40"  src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/24/external-upwork-a-global-freelancing-platform-where-professionals-connect-and-collaborate-remotely-logo-color-tal-revivo.png" alt="external-upwork-a-global-freelancing-platform-where-professionals-connect-and-collaborate-remotely-logo-color-tal-revivo"/> </a>  
   <a href="https://www.fiverr.com/users/your-profile" target="_blank"> <img src="https://img.icons8.com/color/48/000000/fiverr.png" width="40"/> </a>  
 </p>  
 
