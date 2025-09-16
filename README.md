@@ -50,7 +50,7 @@ Currently, I’m enhancing my expertise in **cloud deployment, performance optim
   <img src="https://img.icons8.com/color/48/000000/git.png" width="40"/>
   <img src="https://img.icons8.com/color/48/000000/github.png" width="40"/>
   <img src="https://img.icons8.com/color/48/000000/docker.png" width="40"/>
-  <img src="https://img.icons8.com/color/48/000000/swagger.png" width="40"/>
+  <img src="https://img.icons8.com/color/48/cloud-function.png" width="40"/>
   <img src="https://img.icons8.com/color/48/000000/wordpress.png" width="40"/>
   <img src="https://img.icons8.com/color/48/000000/html-5--v1.png" width="40"/>
   <img src="https://img.icons8.com/color/48/000000/css3.png" width="40"/>
