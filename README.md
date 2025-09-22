@@ -1,4 +1,4 @@
-# Hi there, I'm Haseeb Tariq 👋  
+# Hi there, I'm M. Haseeb Tariq 👋  
 
 I'm an **experienced Full Stack Web Developer** passionate about building scalable, secure, and user-friendly applications. I work with **MERN & MEAN stacks, React, Next.js, PHP, .NET, Python, MySQL, MongoDB and WordPress**, creating end-to-end solutions from responsive frontends to powerful backends.  
 
